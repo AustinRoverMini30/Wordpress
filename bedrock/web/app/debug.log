@@ -1,0 +1,28 @@
+[30-Mar-2025 19:16:17 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 99
+[30-Mar-2025 19:16:17 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 115
+[30-Mar-2025 19:16:20 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 99
+[30-Mar-2025 19:16:20 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 115
+[30-Mar-2025 19:16:47 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 99
+[30-Mar-2025 19:16:47 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 115
+[30-Mar-2025 19:18:15 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 99
+[30-Mar-2025 19:18:15 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 115
+[30-Mar-2025 19:18:15 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\nicol\Wordpress\bedrock\web\app\themes\astra-child\front-page.php on line 122
+[30-Mar-2025 19:20:00 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 99
+[30-Mar-2025 19:20:00 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 115
+[30-Mar-2025 19:20:00 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\nicol\Wordpress\bedrock\web\app\themes\astra-child\front-page.php on line 122
+[30-Mar-2025 19:21:27 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 99
+[30-Mar-2025 19:21:27 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 115
+[30-Mar-2025 19:21:27 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\nicol\Wordpress\bedrock\web\app\themes\astra-child\front-page.php on line 123
+[30-Mar-2025 19:22:08 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 99
+[30-Mar-2025 19:22:08 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 115
+[30-Mar-2025 19:22:08 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 99
+[30-Mar-2025 19:22:08 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 115
+[30-Mar-2025 19:22:08 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\nicol\Wordpress\bedrock\web\app\themes\astra-child\front-page.php on line 123
+[30-Mar-2025 19:22:53 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 99
+[30-Mar-2025 19:22:53 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 115
+[30-Mar-2025 19:22:53 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\nicol\Wordpress\bedrock\web\app\themes\astra-child\front-page.php on line 121
+[30-Mar-2025 19:22:53 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 99
+[30-Mar-2025 19:22:53 UTC] PHP Warning:  Array to string conversion in C:\Users\nicol\Wordpress\bedrock\web\app\plugins\secure-custom-fields\includes\api\api-template.php on line 115
+[30-Mar-2025 19:22:53 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\nicol\Wordpress\bedrock\web\app\themes\astra-child\front-page.php on line 123
+[30-Mar-2025 19:23:55 UTC] PHP Fatal error:  Cannot use [] for reading in C:\Users\nicol\Wordpress\bedrock\web\app\themes\astra-child\front-page.php on line 121
+[30-Mar-2025 19:24:05 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\nicol\Wordpress\bedrock\web\app\themes\astra-child\front-page.php on line 123
