@@ -7,12 +7,9 @@
                 echo '<h1>' . get_the_title() . '</h1>';
                 echo '<div class="portfolio-content">' . get_the_content() . '</div>';
 
-                // Champs personnalisés (ACF)
                 echo '<p>Client : ' . get_field('client') . '</p>';
                 echo '<p>Date de réalisation : ' . get_field('date_de_realisation') . '</p>';
                 echo '<p><a href="' . get_field('lien_projet') . '">Voir le projet</a></p>';
-
-                // Gallerie d'images
 
                 echo '<h2>Galerie d\'images</h2>';
 

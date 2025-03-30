@@ -13,5 +13,4 @@ add_action('wp_enqueue_scripts', function () {
 add_theme_support('post-thumbnails');
 require get_stylesheet_directory() . '/cpt-portfolio.php';
 
-// Activer le plugin ACF
 include_once(ABSPATH . 'wp-admin/includes/plugin.php');
